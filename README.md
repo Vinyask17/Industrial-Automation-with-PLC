@@ -332,7 +332,7 @@ Industrial-Automation-Internship/
 
 # Author
 
-**Abhay Nagure**
+**Vinyas Kulkarni**
 
 Bachelor of Engineering (Electronics and Communication Engineering)
 
