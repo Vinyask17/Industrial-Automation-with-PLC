@@ -296,7 +296,7 @@ During the internship, practical exposure was also gained through the following 
 The following certificate was issued by **Swaraj Automation** upon successful completion of the internship.
 
 <p align="center">
-<img src="Images/Internship_Certificate.jpeg" width="700">
+<img src="Images/CERTIFICATE.jpeg" width="700">
 </p>
 
 ---
